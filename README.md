@@ -41,4 +41,4 @@ Isolation Forest — an unsupervised anomaly detection algorithm.
 The project generates synthetic numerical data, including normal observations and deliberately inserted unusual values.
 
 ## Author
-Add your name here.
+Muhammad Atif
